@@ -1,4 +1,4 @@
-#Trabajo por Javier Mayorga
+#Trabajo 3 por Javier Mayorga
 #Proceso
 
 i = 1
